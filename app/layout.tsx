@@ -7,7 +7,6 @@ export const metadata: Metadata = {
   description: 'Professional web design and AI coaching services for creators and entrepreneurs.',
   keywords: ['web design', 'AI coaching', 'digital services', 'web development'],
   viewport: 'width=device-width, initial-scale=1',
-  charset: 'utf-8',
 };
 
 export default function RootLayout({
